@@ -5,3 +5,9 @@ This project is an NLP-based application designed to classify user-uploaded resu
 * Real-time classification of resumes.
 * Supports multiple resume categories.
 * User-friendly interface built with Streamlit.
+## Technologies and Dependencies
+* Python
+* NLP Libraries: spaCy, NLTK, textract
+* Machine Learning Libraries: scikit-learn
+* Application Deployment: Streamlit
+* Other: pandas, seaborn, matplotlib, wordcloud
